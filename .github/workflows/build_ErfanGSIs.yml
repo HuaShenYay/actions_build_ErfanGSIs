@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dlsvr04.asus.com.cn/pub/ASUS/ZenFone/ZB632KL/UL-ASUS_X01A-WW-16.2018.2003.62-user.zip
-  ROM_NAME: ZenUI
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/note9/8.1.5.0/cn/20200911100730/1ab212fa/update.zip
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
